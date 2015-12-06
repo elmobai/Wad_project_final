@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="address.xsl"?>
+<!--This is needed for style to show up-->
+<directory>
+   <person>
+   		<first_name>Darren</first_name>
+   		<last_name>Quinn</last_name>
+		<address>123 Bóthar na Trá, Cobh, Co. Cork</address>
+		<telephone>021 5676778</telephone>
+   </person>
+   <person>
+   		<first_name>Sam</first_name>
+   		<last_name>Conneely</last_name>
+		<address>69 North Barr Street, Cobh, Co. Cork</address>
+		<telephone>021 4449320</telephone>
+	</person>
+	<person>
+		<first_name>Aaron</first_name>
+		<last_name>Beveridge</last_name>
+		<address>34 North Barr Street, Cobh, Co. Cork</address>
+		<telephone>021 8602916</telephone>
+	</person>
+	<person>
+	   <first_name>Emlyn</first_name>
+	   <last_name>Farrell</last_name>
+		<address>9 North Barr Street, Cobh, Co. Cork</address>
+		<telephone>021 8008135</telephone>
+	</person>
+	<person>
+		<first_name>Curtis</first_name>
+		<last_name>Murphy</last_name>
+		<address>124 Bóthar na Trá, Cobh, Co. Cork</address>
+		<telephone>021 9271004</telephone>
+	</person>
+	<person>
+		<first_name>Evan</first_name>
+		<last_name>Byrne</last_name>
+		<address>78 North Barr Street, Cobh, Co. Cork</address>
+		<telephone>021 6154094</telephone>
+	</person>
+	<person>
+		<first_name>Caoimhe</first_name>
+		<last_name>Malone</last_name>
+		<address>101 Bóthar na Trá, Cobh, Co. Cork</address>
+		<telephone>021 8605241</telephone>
+	</person>
+	<person>
+		<first_name>Jane</first_name>
+		<last_name>Smith</last_name>
+		<address>58 Bóthar na Trá, Cobh, Co. Cork</address>
+		<telephone>021 4396710</telephone>
+	</person>
+	<person>
+		<first_name>Katie</first_name>
+		<last_name>Brady</last_name>
+		<address>65 Bóthar na Trá, Cobh, Co. Cork</address>
+		<telephone>021 8605241</telephone>
+	</person>
+	<person>
+		<first_name>Jade</first_name>
+		<last_name>Byrne</last_name>
+		<address>80 Bóthar na Trá, Cobh, Co. Cork</address>
+		<telephone>021 7689362</telephone>
+	</person>
+	<person><first_name>egg</first_name><last_name>eggerson</last_name><telephone>95995</telephone><address>444 fake street</address></person></directory>

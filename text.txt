@@ -1,0 +1,23 @@
+ <?php
+           $get = file_get_contents('address.xml');
+           $arr = simplexml_load_string($get);
+           $data = $arr->person;
+           ?>
+           <table>
+               <tr>
+                   <th>Name</th>
+                   <th>Address</th>
+                   <th>Telephone</th>
+               </tr>
+               <?php
+               foreach($data as $row){
+               ?>
+               <tr>
+                   <td><?php echo $row->name ?></td>
+                   <td><?php echo $row->address ?></td>
+                   <td><?php echo $row->telephone ?></td>
+               </tr>
+               <?php
+               }
+               ?>
+           </table>

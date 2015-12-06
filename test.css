@@ -1,0 +1,432 @@
+.Container
+{
+	
+
+	
+}
+.paddingmarginZero
+{
+	padding: 0;
+	margin: 0;
+}
+ 
+/* header area style */
+.headerStyle
+{  
+	background-color: #292929;
+	padding: 20px 20px 30px 20px;
+}
+ 
+/* Navigation area style */
+.navbar
+{
+	margin-bottom: 0px;
+	background-color:#ffffcc;
+
+	 font-style: normal;
+	
+}
+.navbar
+{
+	margin-bottom: 0px;
+	background-color:#ffff99;
+	background-size: 1400px;
+
+	/*adding contact Class button1*/
+}
+.button1 {
+  border-radius: 5px;
+  background-color: #f4511e;
+  border: none;
+  color: #FFFFFF;
+  text-align: center;
+  font-size: 15px;
+  padding: 20px;
+  width: 150px;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 5px;
+}
+
+wrapper1 {
+    text-align: center;
+}
+
+
+
+
+.button1 span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 1.0s;
+}
+
+.button1 span:after {
+  content: '»';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+
+.button1:hover span {
+  padding-right: 25px;
+}
+
+.button1:hover span:after {
+  opacity: 1;
+  right: 0;
+}
+/* Selecting Contact Button 2*/
+.button2 {
+  border-radius: 5px;
+  background-color: #f4511e;
+  border: none;
+  color: #FFFFFF;
+  text-align: center;
+  font-size: 15px;
+  padding: 20px;
+  width: 150px;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 5px;
+}
+
+wrapper2 {
+    text-align: center;
+}
+
+
+
+
+.button2 span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 1.0s;
+}
+
+.button2 span:after {
+  content: '»';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+
+.button2:hover span {
+  padding-right: 25px;
+}
+
+.button2:hover span:after {
+  opacity: 1;
+  right: 0;
+}
+/* Selecting Contact Button 3*/
+.button3 {
+  border-radius: 5px;
+  background-color: #f4511e;
+  border: none;
+  color: #FFFFFF;
+  text-align: center;
+  font-size: 15px;
+  padding: 20px;
+  width: 150px;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 5px;
+}
+
+wrapper3 {
+    text-align: center;
+}
+
+
+
+
+.button3 span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 1.0s;
+}
+
+.button3 span:after {
+  content: '»';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+
+.button3:hover span {
+  padding-right: 25px;
+}
+
+.button3:hover span:after {
+  opacity: 1;
+  right: 0;
+}
+/* Selecting Contact Button 4*/
+.button4 {
+  border-radius: 5px;
+  background-color: #f4511e;
+  border: none;
+  color: #FFFFFF;
+  text-align: center;
+  font-size: 15px;
+  padding: 20px;
+  width: 150px;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 5px;
+}
+
+wrapper4 {
+    text-align: center;
+}
+
+
+
+
+.button4 span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 1.0s;
+}
+
+.button4 span:after {
+  content: '»';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+
+.button4:hover span {
+  padding-right: 25px;
+}
+
+.button4:hover span:after {
+  opacity: 1;
+  right: 0;
+}
+/* Selecting Contact Button 5*/
+.button5 {
+  border-radius: 5px;
+  background-color: #f4511e;
+  border: none;
+  color: #FFFFFF;
+  text-align: center;
+  font-size: 15px;
+  padding: 20px;
+  width: 150px;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 5px;
+}
+
+wrapper5 {
+    text-align: center;
+}
+
+
+
+
+.button5 span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 1.0s;
+}
+
+.button5 span:after {
+  content: '»';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+
+.button5:hover span {
+  padding-right: 25px;
+}
+
+.button5:hover span:after {
+  opacity: 1;
+  right: 0;
+}
+
+
+/* Cover Area style */
+.jumbotron1
+{
+	background: url('../images/bg.png') no-repeat center center;
+	background-position: 0% 0%;
+	background-size: 1400px;
+	background-repeat: no-repeat;
+	color:#00cbcc;
+}
+.container .jumbotron, .container-fluid .jumbotron {
+  border-radius: 0px;
+  color:#00cbcc;
+  
+  
+}
+ 
+.sidebarStyle
+{
+	background-color: #A7D97E;
+
+	text-align: center;
+}
+.contentAreaStyle /*Start of Adding a Contact div*/
+{
+	background-color: #b3e5ff;	text-align: center;
+}
+.contentAreaStyle1 /*Start of Login Div*/
+{
+	background-color: #66cbff;
+
+
+	
+
+	text-align: center;
+}
+.contentAreaStyle2
+{
+	background-color: #66ffff;
+
+
+	
+	text-align: center;
+	
+	
+}
+/*Start of Table of Contacts Div*/
+.contentAreaStyle3 
+{
+	background-color: #0098ff;
+
+
+
+	
+	
+	text-align: center;
+}
+.contentAreaStyle4
+{
+	background-color: #ff6700;
+height:200px;
+	
+	text-align: center;
+}
+.contentAreaStyle5
+{
+	background-color: #66ffb3;
+
+	
+	text-align: center;
+}
+.table, th, td 
+{
+  border: 1px solid black;
+  border-collapse:collapse;
+}
+.th, td
+
+.footer1Style
+{
+	background-color: #7d7e7d;
+	color: #dddddd;
+	height: 150px;
+	text-align: center;
+}
+.footer2Style
+{
+	position:absolute;
+	background-color: #5C5C5C;
+	color: #dddddd;
+	height: 150px;
+	text-align: center;
+}
+.footerCopyRightStyle
+{
+	background-color: #373737;
+	color: #dddddd;
+	height: 40px;
+
+	text-align: center;
+}
+table,th,td {/*
+              This is style for the table holding the xml data
+              */
+  border : 1px solid black;
+  border-collapse: collapse;
+}
+
+th {/*
+      This is style for the table holding the xml data
+    */
+  padding: 5px;
+  background: crimson;
+}
+td {/*
+      This is style for the table holding the xml data
+    */
+  padding: 5px;
+  background: darkseagreen;
+}
+ .form-signin {
+            max-width: 330px;
+            padding: 15px;
+            margin: 0 auto;
+            color: #017572;
+         }
+         
+         .form-signin .form-signin-heading,
+         .form-signin .checkbox {
+            margin-bottom: 10px;
+         }
+         
+         .form-signin .checkbox {
+            font-weight: normal;
+         }
+         
+         .form-signin .form-control {
+            position: relative;
+            height: auto;
+            box-sizing: border-box;
+            padding: 10px;
+            font-size: 16px;
+         }
+         
+         .form-signin .form-control:focus {
+            z-index: 2;
+         }
+         
+         .form-signin input[type="email"] {
+            margin-bottom: -1px;
+            border-bottom-right-radius: 0;
+            border-bottom-left-radius: 0;
+            border-color:#017572;
+         }
+         
+         .form-signin input[type="password"] {
+            margin-bottom: 10px;
+            border-top-left-radius: 0;
+            border-top-right-radius: 0;
+            border-color:#017572;
+         }
+         
+         h2{
+            text-align: center;
+            color: #017572;
+         }
