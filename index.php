@@ -84,7 +84,7 @@ $(document).ready(function(){
 </script>
 
 <script type="text/javascript" src="main.js"></script>
-
+<!--Validation not working Cant find the reason-->
 <script>
 	function validateForm() {
     var x = document.forms["myForm"]["F_name"].value;
